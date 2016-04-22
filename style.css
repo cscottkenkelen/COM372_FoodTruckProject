@@ -1,0 +1,203 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+
+body {
+  background-color: #CA1111;
+}
+
+#container {
+  margin: 0 auto;
+  width: 75%;
+  padding: 15px;
+  background-color: #4F61AC;
+}
+
+#containermenu {
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 15px;
+  background-color: #4F61AC;
+}
+
+#containermission {
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #4F61AC;
+}
+
+#containermap {
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #4F61AC;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans Condensed", cursive;
+}
+
+h1 {
+  font-family: "Bangers", fantasy;
+  color: #F0ED00;
+  font-weight: bolder;
+  font-size: 50px;
+  margin: 0;
+  padding-left: 24%;
+}
+
+h2 {
+  font-family: "Open Sans Condensed", fantasy;
+  font-size: 25px;
+  font-weight: normal;
+  margin: 1%;
+  padding-left: 0;
+  text-align-last: center;
+  color: #C1BF00;
+}
+
+header {
+  margin-top: 17%;
+  margin-left: 25%;
+  margin-bottom: 5%;
+  width: 50%;
+}
+
+#mainnav {
+  font-size: 25px;
+  margin-left: 1px;
+  text-align-last: center;
+}
+
+#indexnav {
+  margin-top: 10px;
+}
+
+footer {
+  text-align-last: center;
+  margin-top: 17%;
+  color: #F0ED00;
+}
+
+#body {
+  font-size: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+h4 {
+  font-size: 35px;
+  color: #F0ED00;
+  font-family: "Bangers",cursive;
+  margin-bottom: 0;
+  margin-left: 2%;
+  margin-top: 1%;
+  margin-right: 0;
+  width: 20%;
+}
+
+h5 {
+  font-family: "Bangers",cursive;
+  color: #F0ED00;
+  margin-top: 0;
+  margin-left: 2.25%;
+  font-size: 20px;
+}
+
+
+#nav_bar {
+  margin: 0 auto;
+  width: auto;
+  padding: 5px 0;
+  text-align: center;
+  background-color: #C1BF00;
+  font-size: 25px;
+}
+
+#nav_bar a {
+  margin: 0 50px;
+}
+
+h6 {
+  font-family: "Bangers",cursive;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5%;
+}
+
+#menu {
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5%;
+}
+
+#menu_item {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5%;
+}
+
+.floatright {
+  float: right;
+  margin-left: 10px;
+  margin-right: 3%;
+}
+
+.bottompic {
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-bottom: 20px;
+}
+
+.mission_pic {
+  margin-left: 0;
+}
+
+.mission_pic2 {
+  margin-left: 152px;
+}
+
+#wheretitle {
+  font-family: "Bangers",cursive;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40%;
+  font-weight: bold;
+}
+
+.map {
+  float: right;
+  margin-left: 40%;
+  margin-right: 333px;
+  margin-bottom: 20px;
+}
+
+#wheretitle2 {
+  font-family: "Bangers",cursive;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-left: 42%;
+  font-weight: bold;
+}
+
+#list {
+  font-size: 20px;
+  margin-left: 29%;
+  width: 42%
+}
+
+.indexpic {
+  padding-left: 10%;
+  padding-top: 40px;
+}
